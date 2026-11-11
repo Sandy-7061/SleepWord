@@ -1,0 +1,18 @@
+{
+  "short_name": "SleepWorld",
+  "name": "SleepWorld 3D Mattress Experience & Technology Showroom",
+  "description": "Interactive 3D showroom mattress visualizer, material cutaways, and comfort engineering.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛏️</text></svg>",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#050b14",
+  "theme_color": "#050b14",
+  "display": "standalone",
+  "orientation": "landscape"
+}
+
